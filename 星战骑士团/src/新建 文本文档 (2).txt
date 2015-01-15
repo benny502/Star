@@ -1,0 +1,35 @@
+<Window x:Class="TxtTool.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="查找重复文本" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <ListView x:Name="RepeatField">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="文本位置" DisplayMemberBinding="{Binding origin}" />
+                        <GridViewColumn Header="重复位置" DisplayMemberBinding="{Binding local}" />
+                        <GridViewColumn Header="重复文本" DisplayMemberBinding="{Binding text}"/>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListBox x:Name="LogField" Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding log}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="2">
+            <TextBox x:Name="PathStr" IsEnabled="False" Width="200" Margin="5 5 0 5" />
+            <Button HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5 5 0 5" Content="浏览" Click="Browser_Click"/>
+            <Button HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5" Content="确定" Click="Confirm_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

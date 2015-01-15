@@ -1,0 +1,15 @@
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\bin\Release\CheckReplace.exe.config
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\bin\Release\CheckReplace.exe
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\bin\Release\CheckReplace.pdb
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\MainWindow.baml
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\MainWindow.g.cs
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\App.g.cs
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\CheckReplace_MarkupCompile.cache
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\CheckReplace.g.resources
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\CheckReplace.Properties.Resources.resources
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\CheckReplace.csproj.GenerateResource.Cache
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\CheckReplace.exe
+C:\Users\鑫\documents\visual studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\CheckReplace.pdb
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\CheckReplace.csprojResolveAssemblyReference.cache
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\TaskWindow.baml
+C:\Users\鑫\Documents\Visual Studio 2012\Projects\CheckReplace\CheckReplace\obj\Release\TaskWindow.g.cs
